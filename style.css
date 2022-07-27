@@ -1,0 +1,47 @@
+
+.heading :hover{
+color: red;
+}
+.heading{
+    font-family: "Playfair Display", serif;
+}
+
+.nav-item :hover{
+color: rgb(234, 71, 12);
+}
+.footer-logos a i{
+margin-top: 260px;
+font-size: 30px;
+align-items: center;
+
+}
+
+.footer{
+    height: 100px;
+    background: black;
+}
+.gap{
+    height: 100px;
+    background: black;
+}
+.bg-dark{
+    background: black;
+}
+
+.nav-link{
+    color: white;
+
+} 
+body{
+    background: black;
+}
+
+.nav-link:active {
+    background-color: yellow;
+}
+
+.img{
+    width: 55rem;
+    /* height: 28.125rem; */
+
+}
